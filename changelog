@@ -1,3 +1,8 @@
+11/15/2015
+----------
+-Fixed nested menu bug that caused buildup of "Agent X not active." errors on multiple agent exits
+
+
 11/8/2015
 ---------
 -All PowerUp modules now dynamically built from a single source file
